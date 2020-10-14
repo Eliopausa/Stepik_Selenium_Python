@@ -1,0 +1,37 @@
+1602513957148	geckodriver	INFO	Listening on 127.0.0.1:53660
+1602513962265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DRYZHE~1.HOR\\AppData\\Local\\Temp\\rust_mozprofileNVxdS5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602513971111	Marionette	INFO	Listening on port 53672
+1602513971704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1601899905, line 2923: unreachable code after return statement
+1602513983390	Marionette	INFO	Stopped listening on port 53672
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1601899905, line 2923: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1601899905, line 10131: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602513990612	geckodriver	INFO	Listening on 127.0.0.1:53740
+1602513993625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DRYZHE~1.HOR\\AppData\\Local\\Temp\\rust_mozprofilebizkeH"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602513998105	Marionette	INFO	Listening on port 53748
+1602513998607	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1601899905, line 2923: unreachable code after return statement
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1601899905, line 2923: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1602514006995	Marionette	INFO	Stopped listening on port 53748
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

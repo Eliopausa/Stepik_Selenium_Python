@@ -1,0 +1,12 @@
+[core]
+	editor = \"C:/Program Files (x86)/GitExtensions/GitExtensions.exe\" fileeditor
+	autocrlf = false
+[user]
+	name = eliopausa
+	email = unknowentity@gmail.com
+[pull]
+	rebase = false
+[fetch]
+	prune = false
+[rebase]
+	autoStash = false
